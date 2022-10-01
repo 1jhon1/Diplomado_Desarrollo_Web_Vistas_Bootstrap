@@ -1,0 +1,41 @@
+
+
+.decameron{
+    height: 60px;
+    border-radius: 5px;
+    margin-left: 30px;
+    
+}
+
+#a{
+    color: white;
+   
+}
+
+ a:hover{
+    background-color: rgb(77, 176, 238);
+ }
+
+ .tabla-hotel{
+    margin-top: 100PX;
+ }
+
+ .titulo-hotel{
+    text-align: start;
+    margin-bottom: 30px;
+ }
+ .crearHotel{
+   margin-top: 20px;
+ }
+
+ .eliminarhotel:hover{
+   background-color: white;
+
+ }
+ .eliminarhotel{
+   background-color: white;
+   color: red;
+   text-decoration: none;
+
+ }
+
